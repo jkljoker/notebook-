@@ -4,8 +4,8 @@
 
 #### Linux目录结构
 
-![image-20231123164336264](D:\develop\Typora\Typora 学习笔记\assets\image-20231123164336264.png)
-
+[![image-20231123164336264](D:\develop\Typora\Typora 学习笔记\assets\image-20231123164336264.png)
+](https://github.com/jkljoker/notebook-/blob/web-CTF/assets/image-20231123164336264.png)
 #### Linux远程登录
 
 finalshell xshell secureCRT
