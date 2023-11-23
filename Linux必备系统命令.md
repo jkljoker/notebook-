@@ -3,8 +3,7 @@
 ## Linux基本常识
 
 #### Linux目录结构
-
-<img src="assets/image-20231121173004328.png" alt="image-20231121173004328" style="zoom:80%;" />
+<img src="assets/image-20231123164336264.png" alt="image-20231121173004328" style="zoom:80%;" />
 
 #### Linux远程登录
 
