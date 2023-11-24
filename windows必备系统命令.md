@@ -270,7 +270,7 @@ assoc .xml= 删除xml关联
 
 assoc .xml=xmlfile 给文件添加关联
 
-![image-20231124173326367](../assets/image-20231124173326367.png)
+![image-20231124173326367](assets/image-20231124173326367.png)
 
 ### attrib
 
